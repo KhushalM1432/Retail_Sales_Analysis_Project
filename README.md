@@ -1,4 +1,4 @@
-# Retail_Sales_Project
+# Retail_Sales_Analysis_Project
 # Data_Science
 ### 🚗 Retail_Sales_Analysis
 1) **Data Cleaning & Processing:** Handling missing values, ensuring data consistency, and preparing the dataset for analysis.  
